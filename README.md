@@ -201,7 +201,7 @@ Deepfake-Detection-System
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Deepfake-Detection-System.git
+git clone https://github.com/bsudarshan7/Deepfake-Detection-System.git
 ```
 
 ### Move into Project
