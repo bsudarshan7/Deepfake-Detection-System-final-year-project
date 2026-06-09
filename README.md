@@ -173,31 +173,7 @@ Heatmaps highlight important areas using:
 
 ---
 
-# 📸 Project Screenshots
 
-## 🏠 Home Page
-
-![Home](screenshots/homepage.png)
-
----
-
-## 📷 Image Analysis
-
-![Prediction](screenshots/prediction.png)
-
----
-
-## 🔥 Heatmap Visualization
-
-![Heatmap](screenshots/heatmap.png)
-
----
-
-## 🎥 Video Analysis
-
-![Video](screenshots/video-analysis.png)
-
----
 
 # 📂 Project Structure
 
