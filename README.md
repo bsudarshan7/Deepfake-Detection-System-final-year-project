@@ -3,7 +3,7 @@
 <div align="center">
 
 
-### 🚀 AI-Powered Deepfake Detection using MobileNetV2 & Explainable AI
+### 🚀 AI-Powered Deepfake Detection using CNN
 
 Detect whether an image or video is **Real** or **AI Generated** with visual explanations powered by **Grad-CAM Heatmaps**.
 
